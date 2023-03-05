@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+
+.content {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.crochetBox {
+
+    width: 40rem;
+    height: 40rem;
+    margin: 5rem;
+    background-color: rgb(235, 209, 228);
+    color: black;
+    border-radius: 5rem;
+}
+
+.video {
+    margin: 2rem
+}
+
+.title {
+    font-size: 4rem;
+    font-family: 'Mynerve';
+    margin: 3rem;
+}
+
+h1 {
+    font-family: 'Mynerve';
+    font-size: 5rem;
+}
